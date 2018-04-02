@@ -283,6 +283,8 @@ input[type=text], select {
 	border-width: 30px;
 	background-color: #0087f3;
 	color: #ffffff;
+	height: 26px;
+	width: 26px;
 }
 .month {
 	margin-bottom: 10px;
